@@ -1,0 +1,36 @@
+/* Chat window */
+.user-chat {
+    max-width: 100%; 
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: auto;
+    position: relative;
+    transition: all 0.3s ease;
+  }
+  
+.recent-tab {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 5px;
+    overflow: auto;
+}
+
+.contacts-tab {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 5px;
+    overflow: auto;
+}
+
+.group-tab {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 5px;
+    overflow: auto;
+}
+
+.top-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 5px;
+}

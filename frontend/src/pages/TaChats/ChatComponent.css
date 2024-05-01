@@ -1,0 +1,29 @@
+/* ChatComponent.css */
+
+.chat-container {
+    height: 75vh;
+    overflow: auto;
+    padding: 10px;
+  }
+  
+  .message {
+    margin: 5px;
+    padding: 8px;
+    border-radius: 8px;
+    word-wrap: break-word;
+  }
+  
+  .sent {
+    background-color: #5bc0de;
+    color: #fff;
+    text-align: right;
+    min-width: fit-content;
+  }
+  
+  .received {
+    background-color: #f0f0f0;
+    color: #333;
+    text-align: left;
+    min-width: fit-content;
+  }
+  

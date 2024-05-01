@@ -1,0 +1,33 @@
+.calender-event-Holiday {
+    background-color: #F1B44C;
+  }
+  
+  .calender-event-Holiday:hover {
+    background-color: #F1B44C;
+  }
+  
+  .calender-event-Birthday {
+    background-color:  #34C38F;
+  }
+  
+  .calender-event-Birthday:hover {
+    background-color:  #34C38F;
+  }
+  
+  .calender-event-Anniversary {
+    background-color: #F46A6A;
+  }
+  
+  .calender-event-Anniversary:hover {
+    background-color: #F46A6A;
+  }
+  
+  .calender-event-Leave {
+    background-color: #74788D;
+  }
+  
+  .calender-event-Leave:hover {
+    background-color: #74788D;
+  }
+  
+  
