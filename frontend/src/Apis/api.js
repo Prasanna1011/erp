@@ -1,5 +1,4 @@
-export const API_BASE_URL = "https://www.taerp.techastha.com:8001";
-export const ws_server = "wss://www.taerp.techastha.com:8001";
+// API_BASE_URL
 
 // LOGIN API'S
 export const API_LOGIN = `${API_BASE_URL}/api/login/`;
